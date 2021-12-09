@@ -1,0 +1,19 @@
+/*本文*/
+body{
+  color:#6e6457;
+  background-color: #cfdedf;
+  text-align: center;
+  white-space: normal;
+}
+
+/*大見出し*/
+h1,h2,h3{
+  color: #a2997f;
+}
+
+/*リンククリック*/
+a{
+  text-decoration: none;/*下線消す*/
+  font-size: 30px;
+  color: inherit;
+}
